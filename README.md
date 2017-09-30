@@ -9,7 +9,7 @@ Example
 page:
 [https://www.bls.gov/lau/laucnty16.txt](https://www.bls.gov/lau/laucnty16.txt).
 
-##### COLUMNS
+##### COLUMNS in `county_unemploy.csv`
 
 | Name | Description|
 |:-----|:-----------|
